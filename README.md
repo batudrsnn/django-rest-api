@@ -1,4 +1,4 @@
-# API Final Project Documentation
+# Django REST API Project
 
 # Description
 
